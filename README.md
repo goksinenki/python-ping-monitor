@@ -20,10 +20,7 @@ Installation
 
 Just install the required modules/libraries to your python project directory if you do not have them
 
-import smtplib
-import xlsxwriter
-import csv
-import openpyxl
+smtplib, xlsxwriter, csv, openpyxl
 
 For example:
 

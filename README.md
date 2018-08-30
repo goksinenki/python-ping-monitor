@@ -10,7 +10,10 @@ Do not forget to allow mail relay from your mail server for your script.
 
 Here is a screenshot below.
 
+
 ![alt text](https://github.com/goksinenki/python-ping-monitor/blob/master/pingmonitor.png)
+
+
 INSTALLATION (Windows/Linux)
 
 Installation

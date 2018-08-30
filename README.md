@@ -31,4 +31,6 @@ Open monitor.py and replace the required e-mail addresses with your information.
 
 Then, execute monitor.py
 
+If you like you can schedule that script before the production time (Sunday nights) to be sure that all critical devices are up at production time.
+
 That's all !

@@ -1,0 +1,4 @@
+switchhostname1 switchipaddress1
+switchhostname2 switchipaddress2
+switchhostname3 switchipaddress3
+switchhostname4 switchipaddress4
